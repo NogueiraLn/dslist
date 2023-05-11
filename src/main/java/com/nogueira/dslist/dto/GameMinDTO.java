@@ -4,7 +4,6 @@ import com.nogueira.dslist.entities.Game;
 
 public class GameMinDTO {
 
-	
 	private Long id;
 	private String title;
 	private Integer year;
